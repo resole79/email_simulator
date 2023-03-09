@@ -36,7 +36,7 @@ python3 email.py
 **User selects *‘s’* to send an email**
 
 Ask the user to input:
- - address of the sender
+ - Address of the sender
  - Subject line of the email
  - Contents of the email
 
@@ -46,7 +46,7 @@ Ask the user to input:
 **User selects *‘r’* to read an email**
 
 Ask the user to input:
- - Address of the sender of the email
+ - Address of the email sender
  - Index of the email that you would like to read
 
 <p align="center"><img src="./image/email_simulator_2.png"/><br><i> user selects “r” <br> email marked as "read" </i></p>
@@ -55,7 +55,7 @@ Ask the user to input:
 **User selects *‘m’* to mark as spam**
 
 Ask the user to input:
- - Address of the sender of the email
+ - Address of the email sender
  - Index of the email that you would like to mark us spam
 
 <p align="center"><img src="./image/email_simulator_3.png"/><br><i> user selects “m” <br> email marked as "spam" </i></p>
@@ -64,7 +64,7 @@ Ask the user to input:
 **User selects *‘d’* to delete an email**
 
 Ask the user to input:
- - Address of the sender of the email
+ - Address of the email sender
  - Index of the email that you would like to delete
 
 <p align="center"><img src="./image/email_simulator_4.png"/><br><i> user selects “d”</i></p>
@@ -73,7 +73,7 @@ Ask the user to input:
 **User selects *‘l’* to list email from sender**
 
 Ask the user to input:
- - Address of the sender of the email
+ - Address of the email sender
 
 <p align="center"><img src="./image/email_simulator_5.png"/><br><i> user selects “l”</i></p>
 
